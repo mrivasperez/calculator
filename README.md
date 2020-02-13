@@ -6,3 +6,4 @@ This is a simple calculator I made while learning JavaScript and DOM manipulatio
 
 ## Screenshot
 ![A screen shot of the main page](screenshot.png)
+> A screenshot of the main interface.
